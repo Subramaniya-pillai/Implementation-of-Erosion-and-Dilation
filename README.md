@@ -22,6 +22,8 @@ Dilate the image using the structuring element and text image
 ## Program:
 
 ``` Python
+# developed by : SUBRAMANIYA PILLAI B
+# reg no: 212221230109
 # Import the necessary packages
 import cv2
 import numpy as np
